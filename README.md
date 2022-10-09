@@ -1,4 +1,4 @@
-![𝐀](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
+![𝐀](https://te.legra.ph/file/28d46d8b349f2c4f71cb4.png)
 
 # 𝐌𝐚𝐫𝐤𝐝𝐨𝐰𝐧 𝐁𝐚𝐝𝐠𝐞𝐬
 𝐀𝐝𝐝 𝐁𝐚𝐝𝐠𝐞𝐬 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐀𝐧𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
