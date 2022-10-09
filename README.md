@@ -101,7 +101,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 
 ## 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
 
-You can reach me on [Telegram @Maxim](https://t.me/MaximXRobot)
+You can reach me on Telegram [@Maxim](https://t.me/MaximXRobot)
 
 <hr>
 <hr>
