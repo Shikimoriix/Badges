@@ -937,11 +937,13 @@ You can reach me on Telegram [@Maxim](https://t.me/MaximXRobot)
 
 <div align="center">
 
-![4](https://te.legra.ph/file/28d46d8b349f2c4f71cb4.png)
+🍂 わたしを殺せ : Kill Me! 🍂
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/MaximXGroup)ㅤ
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/MaximXChannels)
-<br>
 
-𝐖𝐫𝐢𝐭𝐞𝐫 : [@𝐢𝐤𝐱𝟕.𝐚](https://instagram.com/ikx7.a?)<p>
-© Repo Copyright Holder : [𝐘𝐮𝐮 𝐈𝐳𝐮𝐦𝐢](https://t.me/MaximXRobot)
+[![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXChannels)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AL3X-Github)
+
+© Copyright Holder : [I𝗓υɱi 和泉](https://t.me/MaximXRobot)
+
+</div>
