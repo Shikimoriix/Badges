@@ -1,9 +1,7 @@
-![𝐀](https://te.legra.ph/file/28d46d8b349f2c4f71cb4.png)
-
 # 𝐌𝐚𝐫𝐤𝐝𝐨𝐰𝐧 𝐁𝐚𝐝𝐠𝐞𝐬
 𝐀𝐝𝐝 𝐁𝐚𝐝𝐠𝐞𝐬 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐀𝐧𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
 
-# 𝐓𝐚𝐛𝐥𝐞 𝐎𝐟 𝐂𝐨𝐧𝐭𝐞𝐬𝐭𝐬
+## 𝐓𝐚𝐛𝐥𝐞 𝐎𝐟 𝐂𝐨𝐧𝐭𝐞𝐬𝐭𝐬
 - [Markdown Badges](#markdown-badges)
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
@@ -51,7 +49,7 @@
    </details>
 
 
-# 𝐔𝐬𝐚𝐠𝐞
+## 𝐔𝐬𝐚𝐠𝐞
 To use a badge:
 - Via Github
     1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
@@ -59,7 +57,7 @@ To use a badge:
     1. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
     
    
-# 𝐓𝐢𝐩𝐬
+## 𝐓𝐢𝐩𝐬
 
 <details> 
 <summary>👇 How to use a different badge style</summary>
