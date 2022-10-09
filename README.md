@@ -936,11 +936,10 @@ You can reach me on Telegram [@Maxim](https://t.me/MaximXRobot)
 
 [(Back to top)](#table-of-contents)
 
-<p align="center">
+
+<div align="center">
 
 ![4](https://te.legra.ph/file/28d46d8b349f2c4f71cb4.png)
-
-⊶⊷⊶⊷❍ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❍⊶⊷⊶⊷
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/MaximXGroup)ㅤ
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/MaximXChannels)
@@ -948,6 +947,3 @@ You can reach me on Telegram [@Maxim](https://t.me/MaximXRobot)
 
 𝐖𝐫𝐢𝐭𝐞𝐫 : [@𝐢𝐤𝐱𝟕.𝐚](https://instagram.com/ikx7.a?)<p>
 © Repo Copyright Holder : [𝐘𝐮𝐮 𝐈𝐳𝐮𝐦𝐢](https://t.me/MaximXRobot)
-<p align="center">
-</p>
-
